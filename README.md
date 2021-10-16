@@ -1,6 +1,6 @@
 Healthcare is a small data mining project, with the goal of analysing a dataset, dealing with missing values and predicting the event of a stroke based on the data from the dataset.
 
-**Task 1**
+*Task 1*
 
 Analyse the healthcare dataset and find the columns with the missing values.
 
