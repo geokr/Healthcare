@@ -12,5 +12,5 @@ Deal with the missing values using the methods below,
 4) Fill the missing values using K-Nearest Neighbours.
 
 
-**Task 3##
+**Task 3**
 Create a model using the Random Forest Classifier with the train-test analogy (75%-25%), to predict a stroke. Review the results using the performance metrics (f1-score, precision, recall).
